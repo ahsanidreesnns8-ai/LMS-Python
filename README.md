@@ -7,8 +7,6 @@ A complete console-based Learning Management System developed in <b>Python</b> u
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![OOP](https://img.shields.io/badge/Object--Oriented-Programming-success?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Console-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
@@ -222,15 +220,7 @@ Supports
 ├── LMS.py
 ├── README.md
 ├── LICENSE
-│
-└── screenshots
-      ├── login.png
-      ├── student-details.png
-      ├── attendance.png
-      ├── marks.png
-      ├── hostel.png
-      ├── fee.png
-      └── gpa.png
+
 ```
 
 ---
@@ -251,22 +241,6 @@ Supports
 - [ ] Admin Dashboard
 - [ ] Student Portal
 - [ ] Online Attendance
-
----
-
-# 📸 Screenshots
-
-| Login | Attendance |
-|--------|------------|
-| ![](screenshots/login.png) | ![](screenshots/attendance.png) |
-
-| Fee Management | Hostel |
-|----------------|---------|
-| ![](screenshots/fee.png) | ![](screenshots/hostel.png) |
-
-| GPA Calculator |
-|----------------|
-| ![](screenshots/gpa.png) |
 
 ---
 
